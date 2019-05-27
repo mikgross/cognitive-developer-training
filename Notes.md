@@ -33,7 +33,7 @@ Anaconda: has lots of packages and let's you work in different environments. Ins
 
 ### CRISP-DM
 * Standard way to work in Data Mining
-* Developed in the 90s and used as of today. (website link)[http://crisp-dm.eu]
+* Developed in the 90s and used as of today. website link: http://crisp-dm.eu
 
 ### NLP
 * Words are called tokens
@@ -44,7 +44,29 @@ Anaconda: has lots of packages and let's you work in different environments. Ins
     * 4) stopwords: Libraries removing them automatically the most common words
     * 5) Stemming: removing suffixes and prefixes
     * 6) Lemmatization: bring the word to its base meaning
+    * 7) Bag-of-words: transformation of words into numbers
 * Tokenization is done differently accross languages and idioms
+* few important problems:
+    * personnal names, companies, geo locations -> determining what named entities are and if they are not
+    * very important when it comes to document processing
+    * chatbot and anything into production needs it to understand intention correctly
+* Some calculations to compute the quality of your model
+    * precision: TP/(TP + FP)
+    * recall: TP/(FN+TP)
+    * F1 harmonic mean: 2*((P*R)/(P+R))
+* usually on a training set of 1 you would have
+    * Training: 0.7
+    * Testing: 0.3
+
+### Data Processing
+
+### Hands on exercises:
+
+**Exercise 1**
+* print row
+* get input value from keyboard
+
+
 
 ----
 
