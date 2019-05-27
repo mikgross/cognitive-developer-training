@@ -34,7 +34,17 @@ Anaconda: has lots of packages and let's you work in different environments. Ins
 ### CRISP-DM
 * Standard way to work in Data Mining
 * Developed in the 90s and used as of today. (website link)[http://crisp-dm.eu]
-* 
+
+### NLP
+* Words are called tokens
+* steps to NLP:
+    * 1) remove punctuation
+    * 2) tokenization: putting separate words in array/list
+    * 3) lowercasing: very important to recognize all similar words
+    * 4) stopwords: Libraries removing them automatically the most common words
+    * 5) Stemming: removing suffixes and prefixes
+    * 6) Lemmatization: bring the word to its base meaning
+* Tokenization is done differently accross languages and idioms
 
 ----
 
