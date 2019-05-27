@@ -1,11 +1,10 @@
 # Cognitive Developer Training
 
 ## 27-05-2019
-
 * https://www.kaggle.com is a great source of datasets, competitions and discussions. It is good to use for learning purposes in Datascience.
 * working with SQl and noSQL databases are pretty much the same
-### What is machine learning
 
+### What is machine learning
 Type of machine learning depending on the dataset:
 * Supervised
     * pre-labeling the data, classification is done by the human before
@@ -28,7 +27,6 @@ Most popular languages in datascience:
 * Matlab
 
 ### Introduction to python
-
 Anaconda: has lots of packages and let's you work in different environments. Install it from the web anaconda.com
 
 ### CRISP-DM
@@ -63,9 +61,11 @@ Anaconda: has lots of packages and let's you work in different environments. Ins
 ### Hands on exercises:
 
 **Exercise 1**
-* print row
-* get input value from keyboard
+* [hands-on-1.py](hands-on/hands-on-1.py)
 
+**Exercise 2**
+* writing with PyPDF2 library text into other objects
+* use the PdfFileReader and PdfFileWriter objects
 
 
 ----
