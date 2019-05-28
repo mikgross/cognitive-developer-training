@@ -1,0 +1,11 @@
+Message-ID: <1qpq31$ep7@agate.berkeley.edu>
+References: <1993Apr17.130528.2773@leland.Stanford.EDU>
+NNTP-Posting-Host: garnet.berkeley.edu
+
+(NDW)
+>I would like to know how to STOP or uninstall this program!!
+
+If an Uninstall icon doesn't exist in the Norton Desktop Apps
+group:
+
+Run NDW's install program with /u.

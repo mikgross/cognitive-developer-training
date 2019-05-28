@@ -1,0 +1,17 @@
+Date: Tue, 27 Apr 1993 18:18:34 +0000
+Message-ID: <735934714snz@cavsys.demon.co.uk>
+Sender: usenet@demon.co.uk
+
+
+Title says it all: I'm in need of a Truetype OEM character set font - ie
+one that contains the line drawing and other characters in the PC 
+character set similar to those you get when running a text mode application.
+
+If anyone could point me at such a thing, I'd be grateful.
+
+[The only OEM fonts included with Windows are not Truetype.]
+
+Regards,
+
+-- 
+Colin Manning

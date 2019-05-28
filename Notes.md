@@ -1,8 +1,9 @@
 # Cognitive Developer Training
 
 ## 27-05-2019
-* https://www.kaggle.com is a great source of datasets, competitions and discussions. It is good to use for learning purposes in Datascience.
+* (Kaggle platform)[https://www.kaggle.com] is a great source of datasets, competitions and discussions. It is good to use for learning purposes in Datascience.
 * working with SQl and noSQL databases are pretty much the same
+* (scikit tutorials and more)[https://scikit-learn.org]
 
 ### What is machine learning
 Type of machine learning depending on the dataset:
@@ -67,10 +68,45 @@ Anaconda: has lots of packages and let's you work in different environments. Ins
 * writing with PyPDF2 library text into other objects
 * use the PdfFileReader and PdfFileWriter objects
 
+**Exercise 3**
+* bag of words exercise
+* we get some text files and we try to arrange them in a bag of words format
+* bag of words will help us to understand texts by infering meaning
+* [to exercise](hands-on/task%202/Bag_of_Words.py)
 
 ----
 
 ## 28-05-2019
+
+### TF-IDF
+* look at slide for accurate description
+* TF: 3/100 = 0.03
+* IDF: log(10000000/1000) = 4
+* TF * IDF measure: says how important te document is important to the document and how relevant it is to the collection
+* use library scikit learn to vectorize tf idf
+* scikit learn is the largest library for Data Science: very good for learning data science
+
+### Clustering
+* Unspuervised machine learning
+* General artifical intelligence on machine learning: regardless of the data processed
+* different clustering methods are suitable for specific tasks
+* On data processing we are done when w represent text as vectors
+* Check chosing the right algorythm
+* Check excel file for exercise (manual clustering)[hands-on/task%203/exercise/clustering_script.py]
+
+### Regression
+* 70% training, 30% testing
+* sum of squares needs to be the lower possible
+* General training: Test set and training set
+* Second one: k-fold cross validation: split your set into 5-6
+* sample size should be around 
+* see slide 107 for types of regressions
+* 
+
+### overfitting
+* ways to deal with:
+    * decrease the number of sample
+    * she will send some docs
 
 ----
 ## 29-05-2019

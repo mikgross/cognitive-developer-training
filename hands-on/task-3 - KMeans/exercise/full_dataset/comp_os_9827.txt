@@ -1,0 +1,12 @@
+Distribution: world
+Message-ID: <1r8a6h$qje@zeus.swindon.rtsg.mot.com>
+References: <mcdonald.732.731608819@aries.scs.uiuc.edu> <1993Mar1.130949.2302@hemlock.cray.com> <1993Mar8.150631.23714@lynx.dac.northeastern.edu>
+Reply-To: marshalk@mercury.Berkeley.EDU (Kevin Marshall)
+NNTP-Posting-Host: mercury.swindon.rtsg.mot.com
+
+
+ +----------------------------------------------------------------------------+
+ | Kevin Marshall, Operational Support, Motorola ECID, Swindon, UK.           |
+ | E-mail   : marshalk@zeus                                                   |
+ | Phone    : +44 793 545127 (International)    (0793) 545127 (Domestic)      |
+ +----------------------------------------------------------------------------+
