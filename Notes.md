@@ -52,6 +52,7 @@ Anaconda: has lots of packages and let's you work in different environments. Ins
 * Some calculations to compute the quality of your model
     * precision: TP/(TP + FP)
     * recall: TP/(FN+TP)
+    * Accuracy: Tp+Tn/(n)
     * F1 harmonic mean: 2*((P*R)/(P+R))
 * usually on a training set of 1 you would have
     * Training: 0.7
@@ -119,3 +120,7 @@ import panda as pd
 import numpy as np
 ```
 
+### Classification
+* KNN: select the class based on nearest neighgbours
+    * always seect an odd number of K
+* 
