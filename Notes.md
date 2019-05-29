@@ -110,3 +110,12 @@ Anaconda: has lots of packages and let's you work in different environments. Ins
 
 ----
 ## 29-05-2019
+
+### panda library
+
+Import like this: (goes usually with numpy)
+```python
+import panda as pd
+import numpy as np
+```
+
