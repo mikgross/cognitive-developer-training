@@ -123,4 +123,20 @@ import numpy as np
 ### Classification
 * KNN: select the class based on nearest neighgbours
     * always seect an odd number of K
-* 
+
+---
+
+## 30-05-2019
+
+### Deep Learning
+
+---
+
+## 31-05-2019
+
+### Kaggle submission
+* submitted the titanic case: 0.74
+
+### To go further
+* Kaggle competition: practice with this
+* She will share some of the books
